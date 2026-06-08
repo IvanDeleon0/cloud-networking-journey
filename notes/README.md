@@ -6,6 +6,19 @@ This folder contains screenshots, diagrams, and concepts completed through **AWS
 
 AWS Cloud Quest provides practical, scenario-based learning that helps learners develop cloud skills while solving real-world business and technical challenges.
 
+🔗 **Credential Verification:**  
+
+<p align="left">
+  <img src="aws-cloud-quest-cloud-practitioner-training-badge.png" width="100" alt="AWS Cloud Quest Badge">
+</p>
+
+### ☁️ AWS Cloud Quest: Cloud Practitioner
+
+Earned through AWS Skill Builder, validating foundational cloud computing knowledge and hands-on AWS experience.
+
+🔗 **Verify Badge:**  
+https://www.credly.com/badges/2336bd3b-25f1-45b5-902e-91243c737667/public_url
+
 ## 📚 Completed Concepts
 
 ### 🗄️ First NoSQL Database
